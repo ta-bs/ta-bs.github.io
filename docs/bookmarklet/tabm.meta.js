@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Tiny Attack Bookmarklet
-// @version     1.1.2
+// @version     1.2.0
 // @description Adds information about the units of all players to your Tiny Attack games.
 // @author      Fex
 // @grant       none
